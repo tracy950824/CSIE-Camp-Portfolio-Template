@@ -34,7 +34,7 @@ const links = [
                 <router-link
                     :to="link.url"
                     class="text-xl text-white opacity-80 shadow-cyan-300 drop-shadow-xl transition-all duration-200 hover:text-2xl hover:opacity-100"
-                    >{{ link.text }}</router-link
+                    >{{ link.text }} </router-link
                 >
             </div>
         </div>
